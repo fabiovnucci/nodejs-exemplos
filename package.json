@@ -1,0 +1,19 @@
+{
+  "name": "exercicios",
+  "version": "1.0.0",
+  "description": "exercicios com o Nodejs",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiovnucci/nodejs_exercicios.git"
+  },
+  "author": "Fábio Vergílio Nucci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiovnucci/nodejs_exercicios/issues"
+  },
+  "homepage": "https://github.com/fabiovnucci/nodejs_exercicios#readme"
+}
